@@ -2,7 +2,7 @@
 
 将「私信」替换成「豆邮」的 Safari / Chrome 浏览器拓展
 
-![截图](https://github.com/iplus26/doumail-back-safari/blob/master/Screenshot.png)
+![截图](https://github.com/iplus26/doumail-back/blob/master/Screenshot.png)
 
 # 背景
 
@@ -18,11 +18,13 @@
 
 下载 doumail-back.safariextz 双击安装。
 
-下载地址: https://raw.githubusercontent.com/iplus26/doumail-back-safari/master/doumail-back.safariextz
+下载地址: https://github.com/iplus26/doumail-back/raw/master/doumail-back.safariextz
 
 ## Chrome
 
 下载 doumail-back-chrome.crx 双击安装。
+
+下载地址: https://github.com/iplus26/doumail-back/raw/master/doumail-back-chrome.crx
 
 下课回去提交 Chrome 商店，好像现在 Windows 下非官网的插件不能安装。[Chrome 封杀所有非官方市场插件 - 36氪](http://36kr.com/p/532872.html)
 
