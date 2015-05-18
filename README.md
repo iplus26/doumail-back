@@ -20,13 +20,15 @@
 
 下载地址: https://github.com/iplus26/doumail-back/raw/master/doumail-back.safariextz
 
-## Chrome
+## Chrome 
 
-下载 doumail-back-chrome.crx 双击安装。
+下载 doumail-back-chrome.crx 拖拽到 Chrome 插件页面安装(chrome://extensions)
 
 下载地址: https://github.com/iplus26/doumail-back/raw/master/doumail-back-chrome.crx
 
-下课回去提交 Chrome 商店，好像现在 Windows 下非官网的插件不能安装。[Chrome 封杀所有非官方市场插件 - 36氪](http://36kr.com/p/532872.html)
+1. 360 等一众用 Chrome 内核的浏览器应该也是可以使用滴
+
+2. 没提交至 Chrome Web Store，要是 [Chrome 封杀所有非官方市场插件 - 36氪](http://36kr.com/p/532872.html) 开始执行了再说
 
 # 联系我
 
