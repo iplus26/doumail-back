@@ -1,7 +1,8 @@
 console.log("还我豆邮!  -- Ivan");
 
 // 标题
-document.title = document.title.replace(/私信/g, "我的豆邮");
+document.title = document.title.replace(/ 私信/g, "我的豆邮");
+document.title = document.title.replace( /私信/g, "豆邮");
 
 // 导航栏
 var p1 = document.querySelector("#top-nav-doumail-link");
@@ -9,10 +10,9 @@ p1.textContent = p1.textContent.replace(/私信/g, "豆邮");
 
 if(location.pathname.indexOf("people")  != -1) {
 	// 发私信
-	var p5 = document.querySelector(".user-opt");
+	var p5 = document.querySelector(".a-btn.mr5");
 	p5.innerHTML = p5.innerHTML.replace(/私信/g, "豆邮");
 }
-
 
 if(location.pathname.indexOf("doumail") != -1){
 	// 豆邮页面
