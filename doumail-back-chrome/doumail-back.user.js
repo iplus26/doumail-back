@@ -1,4 +1,12 @@
-console.log("还我豆邮!  -- Ivan");
+// ==UserScript==
+// @name         Doumail Back & Remove Douban App Ads
+// @author       Ivan Jiang(iplus26) & Joanna Wu(wileam)
+// @match        *.douban.com/*
+// @grant        none
+// ==/UserScript==
+//
+// 用于 Firefox 的 Greasemonkey 或者 Chrome 的 Tampermonkey
+
 
 // 标题
 document.title = document.title.replace(/私信/g, "豆邮");
