@@ -4,8 +4,8 @@ console.log("还我豆邮!  -- Ivan");
 document.title = document.title.replace(/私信/g, "我的豆邮");
 
 // 导航栏
-var p1 = document.querySelector("#db-global-nav");
-p1.innerHTML = p1.innerHTML.replace(/私信/g, "豆邮");
+var p1 = document.querySelector("#top-nav-doumail-link");
+p1.textContent = p1.textContent.replace(/私信/g, "豆邮");
 
 if(location.pathname.indexOf("people")  != -1) {
 	// 发私信
