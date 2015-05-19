@@ -30,6 +30,10 @@
 
 2. 没提交至 Chrome Web Store，要是 [Chrome 封杀所有非官方市场插件 - 36氪](http://36kr.com/p/532872.html) 开始执行了再说
 
+## Firefox
+
+下载安装 [Greasemonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/) 并重启浏览器后，点击 [下载](https://github.com/iplus26/doumail-back/raw/master/doumail-back-chrome/doumail-back.user.js ) 会自动弹出安装界面。
+
 # 联系我
 
 要是喜欢，请扫码给我喂一瓶郫县豆瓣（支付宝 554375781@qq.com）
