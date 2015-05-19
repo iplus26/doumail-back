@@ -51,7 +51,9 @@ if (location.hostname.indexOf("site") != -1) {
         p4.innerHTML = p4.innerHTML.replace(/私信/g, "豆邮");
     }
         
-    // 「回应」按钮旁边的广告
-    document.querySelector(".item-submit").innerHTML = '<span class="bn-flat"><input type="submit" name="m_reply" value="回应"></span>';
-    }
-}
+    if (location.pathname.indexOf("write") == -1) {
+        // 不是新建豆邮
+        // 去除「回应」按钮旁边的广告
+        document.querySelector(".item-submit").innerHTML = '<span class="bn-flat"><input type="submit" name="m_reply" value="回应"></span>';
+        }
+    }}
