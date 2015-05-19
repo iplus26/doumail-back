@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Doumail Back & Remove Douban App Ads
 // @author       Ivan Jiang(iplus26) & Joanna Wu(wileam)
-// @match        http://www.douban.com/*
+// @match        *.douban.com/*
 // @grant        none
 // ==/UserScript==
 //
