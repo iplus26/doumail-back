@@ -2,7 +2,7 @@
 
 将「私信」替换成「豆邮」的 Safari / Chrome 浏览器拓展
 
-![截图](https://github.com/iplus26/doumail-back/blob/master/Screenshot.png)
+![截图](https://github.com/iplus26/doumail-back/blob/master/readme_images/Screenshot.png)
 
 # 背景
 
@@ -32,6 +32,8 @@
 
 # 联系我
 
+要是喜欢，请扫码给我喂一瓶郫县豆瓣（支付宝 554375781@qq.com）
 
+![alipay](https://github.com/iplus26/doumail-back/blob/master/readme_images/alipay.png)
 
-有任何问题欢迎发邮件至 iplus26@gmail.com 或者微信我 ivanfd.
+有任何问题欢迎提交 issues / 发邮件至 iplus26@gmail.com / 微信我 ivanfd.
