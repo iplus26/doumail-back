@@ -12,6 +12,8 @@
 
 [还我豆邮！！！- 豆瓣线上活动](http://www.douban.com/online/12214968/)
 
+5月20号豆瓣把「私信」改回「豆邮」，[继续“豆邮”](http://blog.douban.com/douban/2015/05/20/3037/)
+
 # 安装
 
 ## Safari
